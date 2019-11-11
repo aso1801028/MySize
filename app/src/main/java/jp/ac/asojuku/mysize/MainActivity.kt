@@ -9,6 +9,7 @@ import kotlinx.android.synthetic.main.activity_main.*
 
 class MainActivity : AppCompatActivity() {
     /*pushの演習コメント*/
+    /*commit&pushの練習コメント*/
 
 
     override fun onCreate(savedInstanceState: Bundle?) {
