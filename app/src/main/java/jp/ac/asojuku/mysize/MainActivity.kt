@@ -10,7 +10,7 @@ import kotlinx.android.synthetic.main.activity_main.*
 class MainActivity : AppCompatActivity() {
     /*pushの演習コメント*/
     /*commit&pushの練習コメント*/
-
+    /*pull リモート反映の練習コメント*/
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
